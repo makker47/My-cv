@@ -75,7 +75,7 @@ main {
 
 .leftside {
   grid-area: leftside;
-  position: relative;
+  position: relative; 
 }
 
 .foto {
@@ -144,6 +144,9 @@ h1, span{
   line-height: 1.6;
   margin-top: 1.25rem;
 }
+
+
+
 
 
 .expirience {
@@ -373,7 +376,9 @@ footer a:hover::after {
     
   }
 
-  
+  footer {
+    display: none;
+  }
 
   .glass {
     
