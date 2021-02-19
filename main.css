@@ -73,26 +73,9 @@ main {
   height: 70%;
 }
 
-
-
-
-    
-   
-    
-   
-   
-    
-    
-  
-
-
 .leftside {
   grid-area: leftside;
   position: relative;
-  
-  
-
-  
 }
 
 .foto {
@@ -161,9 +144,6 @@ h1, span{
   line-height: 1.6;
   margin-top: 1.25rem;
 }
-
-
-
 
 
 .expirience {
