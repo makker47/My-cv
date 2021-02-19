@@ -64,8 +64,8 @@ main {
   grid-template-areas: 
     'leftside '
     'expirience '
-    'education'
-    ' skills '
+    'skills'
+    ' education'
     ;
   
   padding: 1.25rem;
